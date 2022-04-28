@@ -2,7 +2,7 @@ def hello_max(say, *args):
     print(say, args)
 
 
-hello_max('Max', 'gandon', 'sddd')
+hello_max('Hello', 'gandon', 'sddd')
 
 
 def get_name(**kwargs):
